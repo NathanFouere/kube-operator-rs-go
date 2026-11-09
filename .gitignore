@@ -1,1 +1,11 @@
+# direnv / nix
 .direnv/
+result
+result-*
+
+target/
+
+.idea/
+.vscode/
+*.swp
+*~
