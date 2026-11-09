@@ -1,0 +1,6 @@
+apiVersion: kube.rs/v1
+kind: Memcached
+metadata:
+  name: lorem
+spec:
+  size: 3
